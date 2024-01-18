@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - michaelhe999
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - michaelhe999/Math_Quiz_Projects
+  - michaelhe999/cse15l-lab-reports
+  - michaelhe999/CSE12Code
