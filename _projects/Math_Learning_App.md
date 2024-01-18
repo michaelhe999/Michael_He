@@ -48,5 +48,3 @@ On the question and answer pages, there is a restart button that takes the user 
 <div class="caption">
     Hopefully this will be the video once that works.
 </div>
-
-{% endraw %}
