@@ -38,7 +38,7 @@ On the question and answer pages, there is a restart button that takes the user 
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, the starting screen. Middle, an example question page. Right, the corresponding example answer page.
+    On the left, the starting screen. Middle, an example question page. Right, the corresponding example answer page.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
