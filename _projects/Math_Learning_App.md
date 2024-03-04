@@ -24,7 +24,7 @@ After answering all questions correctly a certain number of times, which depends
 
 On the question and answer pages, there is a restart button that takes the user back to the starting screen. 
 
-[Here](https://drive.google.com/file/d/1gF2Z3qYkVQP1lGjJFTVNE4-ZKKI74ORV/view?usp=sharing) is a video of the app functioning, as well as a code explanation. 
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,14 +40,10 @@ On the question and answer pages, there is a restart button that takes the user 
 <div class="caption">
     On the left, the starting screen. Middle, an example question page. Right, the corresponding example answer page.
 </div>
+Here is a video of the app functioning, as well as a code explanation. For better quality, click [here](https://drive.google.com/file/d/1gF2Z3qYkVQP1lGjJFTVNE4-ZKKI74ORV/view?usp=sharing).
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/video/MLA_demo_super_compressed.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true %}
-    </div>
-</div>
-<div class="caption">
-    A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
 </div>
