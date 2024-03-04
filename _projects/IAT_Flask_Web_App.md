@@ -2,7 +2,7 @@
 layout: page
 title: IAT Web App
 description: Flask web app for the purpose of making and executing Implicit Association Tests
-img: assets/img/math.jpg
+img: assets/img/iat.jpg
 importance: 2
 category: work
 related_publications: false
