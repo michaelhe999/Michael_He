@@ -22,27 +22,4 @@ The back-end consists of Python written in the traditional Flask format to organ
 There are definitions for the front-end to display changing text without cluttering the front-end structure, redirections between different routes for easy looping, and input analysis from the frontend. 
 All the data collection and storage is also done in the back-end, with the SQLite database and keyboard input data. All this is then fed through a function to output the final result. 
 
-[Here](https://drive.google.com/file/d/1gF2Z3qYkVQP1lGjJFTVNE4-ZKKI74ORV/view?usp=sharing) is a video of the app functioning, as well as a code explanation. 
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    On the left, the starting screen. Middle, an example question page. Right, the corresponding example answer page.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Hopefully this will be the video once that works.
-</div>
+Since this was a project as part of a research group, no further details can be shared. 
