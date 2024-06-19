@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello World! My name is Michael He, an undergrad Computer Science major at UC San Diego. I'm currently working in the Ujima Security and Privacy Research group. 
+Hello World! My name is Michael He, an undergrad Computer Science major at UC San Diego. My activities and experience can be found on the CV page.  
 
-My interests include rock-climbing, badminton, cats, and drinking caffeine. 
+My interests include rock-climbing, badminton, and cats. 
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
