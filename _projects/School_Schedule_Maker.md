@@ -19,7 +19,7 @@ This is a group project where I was a back-end developer mostly responsible for 
 ## Back-end
 The log-in system is a relatively simple implementation, with some password hashing for security purposes. However, the sign-in was not a high priority as we had a tight deadline. 
 
-The scheduling algorithm is similar to the job-sequencing algorithm, but with a lot more requirements and restraints. For example, students were able to select times where they had no time for class, and other times where they didn't want class, referred to as a black-list and a gray-list respectively. The algorithm I ended up creating started by attempting to avoid all blacklist and graylist times, but if that wasn't possible, tried to use as few gray-list times as possible. 
+The scheduling algorithm is similar to the job-sequencing algorithm, but with a lot more requirements and restraints. For example, students were able to select times where they had no time for class, and other times where they didn't want class, referred to as a blacklist and a graylist respectively. The algorithm I ended up creating started by attempting to avoid all blacklist and graylist times, but if that wasn't possible, tried to use as few graylist times as possible. 
 
-Another issue was the vast time complexity of all of these operations. 
+Another issue was the vast time complexity of all of these operations. With each class having several sections, each section having different discussion times, and a variety of formats in the ways times were written out, the number of time comparisons that had to be made to check conflicting times was extremely large, especially considering that there was technically no upper limit on the number of courses that could be input. 
 
