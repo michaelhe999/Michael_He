@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: Professional_Headshot.png
+  image: Professional_Headshot_V2.jpg
   image_circular: false # crops the image to make it circular
   <!--- more_info: >
     <p>555 your office number</p>
@@ -19,9 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello World! My name is Michael He, an undergrad Computer Science major at UC San Diego. My activities and experience can be found on the CV page.  
+Hello World! My name is Michael He, an undergraduate Computer Science major at UC San Diego. 
 
-My interests include rock-climbing, badminton, and cats. 
+I've participated in several UCSD research labs, worked as a computer science tutor and instructor, held positions in student organizations, and completed several projects relating to my interests in Artificial Intelligence, App Development, and Software Engineering. Information on any of this can be found on the CV tab of the website. 
+
+Outside of my academic interests, I like to play badminton and go rock-climbing. 
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
