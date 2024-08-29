@@ -29,14 +29,7 @@
       "url": "",
       "startDate": "Aug. 2023",
       "endDate": "Jun. 2024",
-      "summary": "As a researcher in a group dedicated to investigating accessibility and security issues impacting marginalized communities, 
-      I worked on a variety of tasks and projects. I co-authored a research paper on how a new government policy affected the security and privacy of 
-      various Kenyan finance apps, a paper published in the IEEE International Symposium on Technology and Society 2024. 
-      My work on this paper included creating a Python web scraper to collect app download data and ratings as a variable for analysis and a 
-      Python notebook to create and run all the scripts for figure creation, as well as running a script to find the requested permissions from the app APKs. 
-      I also created a project while learning about the principles of accessible design, 
-      as well as learning the use of the Java-based Espresso Test API and Google's Android Accessibility Test Framework (ATF) in Android Studios.
-      In addition to all that, I also acted as the project lead for team in creating a Flask web application to facilitate the creation and execution of Implicit Association psychological tests",
+      "summary": "As a researcher in a group dedicated to investigating accessibility and security issues impacting marginalized communities, I worked on a variety of tasks and projects. I co-authored a research paper on how a new government policy affected the security and privacy of various Kenyan finance apps, a paper published in the IEEE International Symposium on Technology and Society 2024. My work on this paper included creating a Python web scraper to collect app download data and ratings as a variable for analysis and a Python notebook to create and run all the scripts for figure creation, as well as running a script to find the requested permissions from the app APKs. I also created a project while learning about the principles of accessible design, as well as learning the use of the Java-based Espresso Test API and Google's Android Accessibility Test Framework (ATF) in Android Studios. In addition to all that, I also acted as the project lead for team in creating a Flask web application to facilitate the creation and execution of Implicit Association psychological tests",
       "highlights": ["Project lead and Co-Author"]
     }
   ],
