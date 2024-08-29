@@ -22,14 +22,21 @@
       }
     ]
   },
-  "work": [
+  "experience": [
     {
-      "name": "",
-      "position": "",
+      "name": "UCSD Ujima Security and Privacy Research Group",
+      "position": "Undergraduate Researcher",
       "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "Aug. 2023",
+      "endDate": "Jun. 2024",
+      "summary": "As a researcher in a group dedicated to investigating accessibility and security issues impacting marginalized communities, 
+      I worked on a variety of tasks and projects. I co-authored a research paper on how a new government policy affected the security and privacy of 
+      various Kenyan finance apps, a paper published in the <b>IEEE International Symposium on Technology and Society 2024</b>. 
+      My work on this paper included creating a <b>Python</b> web scraper to collect app download data and ratings as a variable for analysis and a 
+      <b>Python notebook</b> to create and run all the scripts for figure creation, as well as running a script to find the requested permissions from the app APKs. 
+      I also created a <a href='https://michaelhe999.github.io/Michael_He/projects/Math_Learning_App/'>project</a> while learning about the principles of accessible design, 
+      as well as learning the use of the <b>Java</b>-based <b>Espresso Test API</b> and Google's <b>Android Accessibility Test Framework (ATF)</b> in <b>Android Studios</b>.
+      In addition to all that, I also acted as the <b>project lead</b> for team in creating a <b>Flask</b> web application to facilitate the creation and execution of Implicit Association psychological tests",
       "highlights": [""]
     }
   ],
