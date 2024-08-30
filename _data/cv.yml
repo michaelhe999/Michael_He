@@ -134,6 +134,16 @@
     - contents: 
       <a href="https://www.citiprogram.org/verify/?wd6248fd7-3835-46d7-af18-384828a63fc8-61894775">Certificate</a>
 
+- title: Skills
+  type: nested_list
+  contents: 
+    - title: Languages: 
+    contents: 
+      - Java, Python (NumPy, MatPlotLib, Pandas, Seaborn, Paramiko), C/C++, C\#, JavaScript, MATLAB
+    - title: Tools:
+     contents: 
+       - Git, JUnit, Google Cloud, VS Code/Visual Studio, Unity, Colab, LaTeX, Android Studios, MongoDB, Express, React, Node, Flask, HTML, SQLite, Postman}}
+
 - title: Academic Interests
   type: nested_list
   contents:
