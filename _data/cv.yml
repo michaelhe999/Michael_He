@@ -99,7 +99,7 @@
         - Web application to enable users to automatically generate course schedules given parameters using school data
         - As back-end developer, created complex algorithm in JavaScript to come up with multiple schedule options and avoid scheduling conflicts
         - Created routing logic, models for different objects, and controllers to define user behavior using JavaScript
-        title: Skills Used: 
+        - title: Skills Used: 
         contents: 
           - MERN, Javascript, Git
     - title: <a href="https://github.com/michaelhe999/Math_Quiz_Project">Math Learning App -- Research Project</a>
@@ -108,7 +108,7 @@
         - Adaptive mobile app-form game for simple addition learning targeted towards elementary-age children
         - Implemented principles of accessible design such as element labels, color contrast, and reliable touch targets in front-end GUI elements through Unity tools
         - Back-end implemented C# code using the Unity platform for memory storage and adaptive settings
-        title: Skills Used 
+        - title: Skills Used 
         contents:
           - Unity, C#, Git
     - title: Implicit Association Test – Research Project
@@ -117,7 +117,7 @@
         - Web application to facilitate the creation and execution of implicit association psychological tests
         - As project lead, coordinated team member assignments and responsibilities and managed GitHub repository
         - As full stack developer, created framework of Flask web application with working HTML and JavaScript front-end, Python back-end routing and logic, and SQLite3 database
-        title: Skills Used 
+        - title: Skills Used 
         contents:
           - Flask, Javascript, HTML, CSS, SQLite3, Git 
           
