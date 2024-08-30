@@ -2,96 +2,151 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Michael He
+    - name: Email
+      value: michaelhe2016@gmail.com
+    - name: Phone Number
+      value: (858) 999-4691
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science in Computer Science
+      institution: University of California, San Diego
+      year: Aug. 2023 – June 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Regents Scholar
+        - Provost Honors
+        - 4.0 GPA
+        - title: Relevant Coursework: 
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Advanced Data Structures
+            - Object-Oriented Design
+            - Computer Organization
+            - Systems Programming
+            - Discrete Mathematics
+            - Mathematics for Algorithms and Systems
+            - Design and Analysis of Algorithms
+            - Software Engineering
+            - Computational Problem-Solving
+            - Programming Languages
+            - Statistical Methods
+            - Intro to Data Science
+            - Probabilistic Reasoning and Decision-Making
+            - Theory of Computability
+            - Data Science in Practice
+    - title: High School Diploma
+      institution: Scripps Ranch High School
+      year: Aug. 2019 – June 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Top 1% GPA (4.79)
+        - title: Relevant Coursework:
+          contents:
+            - AP Computer Science A
+            - Principles of Engineering
+            - Digital Electronics
+            - Multivariable Calculus
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Undergraduate Researcher
+      institution: UCSD Ujima Security and Privacy Research Group
+      year: Aug. 2023 - Jun. 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Research group dedicated to investigating accessibility and security issues impacting marginalized communities
+        - Worked on a research paper on Kenyan finance apps to analyze changes in security and permissions after new government policy to determine the impact and make comparisons with American apps
+        - Published in IEEE International Symposium on Technology and Society 2024
+        - Created a Python web scraper to collect app download data and ratings as a variable for analysis and a Python notebook to create and run all the scripts for figure creation
+        - Learned accessibility tests of various app APKs through the Java-based Espresso Test API and Google’s Android Accessibility Test Framework (ATF) in Android Studios
+        - Project lead for team creating a Flask web application to facilitate the creation and execution of Implicit Association psychological tests
+    - title: Independent Contractor
+      institution: Technology Company
+      year: Jul. 2024 - Aug. 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Worked as a contractor to develop a custom software tool in Python to optimize and streamline workflow processes for a major client
+        - Collaborated closely with client to gather requirements, ensuring the tool met all functional and performance needs
+        - Co-factored existing code and improved algorithms to automate repetitive tasks, keeping in mind scalability, security, and maintainability
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Undergraduate Researcher
+      institution: UCSD Programming Systems Group
+      year: Mar. 2024 – Jun. 2024
+      description: 
+        - Performed analysis of video interview about participants’ use of Jupyter notebook using MAXQDA
+        - Completed CITI Program training on social and behavioral research for work with human subjects
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Instructor
+      institution: iD Tech Camps
+      year: Jun. 2024 - Aug. 2024
       description:
+        - Taught a range of students from middle to high school in complex coding and technology concepts
+        - Instructed students in Python and introduced AI through neural networks, Tensorflow models and OpenAI
+        - Guided students to create robots with Vex kit parts and code state machines and precise motor control in C++
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: CSE 12 Tutor
+      institution: CSE Department @ UCSD
+      year: Mar. 2024 - Jun. 2024
+      description: 
+        - Held tutoring hours to assist students in course topics, resolving over 100 tickets with a >98% resolution rate
+        - Assisted TAs with exam preparation, assignment testing, and assignment grading
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/acmucsd-projects/wi24-hack-team-2">School Schedule Maker – Club Project</a>
+      year: 2024
+      description: 
+        - Web application to enable users to automatically generate course schedules given parameters using school data
+        - As back-end developer, created complex algorithm in JavaScript to come up with multiple schedule options and avoid scheduling conflicts
+        - Created routing logic, models for different objects, and controllers to define user behavior using JavaScript
+        title: Skills Used: 
+        contents: 
+          - MERN, Javascript, Git
+    - title: <a href="https://github.com/michaelhe999/Math_Quiz_Project">Math Learning App -- Research Project</a>
+      year: 2023
+      description:
+        - Adaptive mobile app-form game for simple addition learning targeted towards elementary-age children
+        - Implemented principles of accessible design such as element labels, color contrast, and reliable touch targets in front-end GUI elements through Unity tools
+        - Back-end implemented C# code using the Unity platform for memory storage and adaptive settings
+        title: Skills Used: 
+        contents:
+          - Unity, C#, Git
+    - title: Implicit Association Test – Research Project
+      year: 2024
+      description:
+        - Web application to facilitate the creation and execution of implicit association psychological tests
+        - As project lead, coordinated team member assignments and responsibilities and managed GitHub repository
+        - As full stack developer, created framework of Flask web application with working HTML and JavaScript front-end, Python back-end routing and logic, and SQLite3 database
+        title: Skills Used: 
+        contents:
+          - Flask, Javascript, HTML, CSS, SQLite3, Git 
+          
+- title: Publications
+  type: list
+  contents: 
+    - Alexis Morales Flores, Michael He, William Wu, Imani Munyaka; A License to Prey; Investigating the Impact of Digital Loan App Regulations on Permission Requests and Privacy Policies in the Kenyan Market, IEEE International Symposium on Technology and Society, Social Implications of Artificial Intelligence, 2024
 
-- title: Honors and Awards
+- title: Certifications
   type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+  contents: 
+    - title: CITI Social and Behavioral Research - Basic/Refresher
+    - year: 2024 - 2027
+    - contents: 
+      <a href="https://www.citiprogram.org/verify/?wd6248fd7-3835-46d7-af18-384828a63fc8-61894775">Certificate</a>
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: App Development
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Web applications (Flask, MERN)
+        - Accessible Design
+    - title: Artificial Intelligence
       items:
-        - Description 1.
-        - Description 2.
+        - Neural networks and machine learning
+        - Large language models
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Bouldering, Badminton, Reading
