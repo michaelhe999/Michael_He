@@ -18,7 +18,7 @@
         - Regents Scholar
         - Provost Honors
         - 4.0 GPA
-        - title: Relevant Coursework: 
+        - title: Relevant Coursework 
           contents:
             - Advanced Data Structures
             - Object-Oriented Design
@@ -40,7 +40,7 @@
       year: Aug. 2019 – June 2023
       description:
         - Top 1% GPA (4.79)
-        - title: Relevant Coursework:
+        - title: Relevant Coursework
           contents:
             - AP Computer Science A
             - Principles of Engineering
@@ -108,7 +108,7 @@
         - Adaptive mobile app-form game for simple addition learning targeted towards elementary-age children
         - Implemented principles of accessible design such as element labels, color contrast, and reliable touch targets in front-end GUI elements through Unity tools
         - Back-end implemented C# code using the Unity platform for memory storage and adaptive settings
-        title: Skills Used: 
+        title: Skills Used 
         contents:
           - Unity, C#, Git
     - title: Implicit Association Test – Research Project
@@ -117,7 +117,7 @@
         - Web application to facilitate the creation and execution of implicit association psychological tests
         - As project lead, coordinated team member assignments and responsibilities and managed GitHub repository
         - As full stack developer, created framework of Flask web application with working HTML and JavaScript front-end, Python back-end routing and logic, and SQLite3 database
-        title: Skills Used: 
+        title: Skills Used 
         contents:
           - Flask, Javascript, HTML, CSS, SQLite3, Git 
           
@@ -137,10 +137,10 @@
 - title: Skills
   type: nested_list
   contents: 
-    - title: Languages: 
+    - title: Languages 
       contents: 
         - Java, Python (NumPy, MatPlotLib, Pandas, Seaborn, Paramiko), C/C++, C\#, JavaScript, MATLAB
-    - title: Tools:
+    - title: Tools
       contents: 
         - Git, JUnit, Google Cloud, VS Code/Visual Studio, Unity, Colab, LaTeX, Android Studios, MongoDB, Express, React, Node, Flask, HTML, SQLite, Postman}}
 
