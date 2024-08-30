@@ -100,8 +100,8 @@
       - As back-end developer, created complex algorithm in JavaScript to come up with multiple schedule options and avoid scheduling conflicts
       - Created routing logic, models for different objects, and controllers to define user behavior using JavaScript
       - title: Skills Used 
-      contents: 
-        - MERN, Javascript, Git
+        contents: 
+          - MERN, Javascript, Git
     - title: <a href="https://github.com/michaelhe999/Math_Quiz_Project">Math Learning App -- Research Project</a>
       year: 2023
       description:
@@ -109,8 +109,8 @@
       - Implemented principles of accessible design such as element labels, color contrast, and reliable touch targets in front-end GUI elements through Unity tools
       - Back-end implemented C# code using the Unity platform for memory storage and adaptive settings
       - title: Skills Used 
-      contents:
-        - Unity, C#, Git
+        contents:
+          - Unity, C#, Git
     - title: Implicit Association Test – Research Project
       year: 2024
       description:
@@ -118,8 +118,8 @@
       - As project lead, coordinated team member assignments and responsibilities and managed GitHub repository
       - As full stack developer, created framework of Flask web application with working HTML and JavaScript front-end, Python back-end routing and logic, and SQLite3 database
       - title: Skills Used 
-      contents:
-        - Flask, Javascript, HTML, CSS, SQLite3, Git 
+        contents:
+          - Flask, Javascript, HTML, CSS, SQLite3, Git 
           
 - title: Publications
   type: list
@@ -138,10 +138,10 @@
   type: nested_list
   contents: 
     - title: Languages 
-      contents: 
+      items: 
         - Java, Python (NumPy, MatPlotLib, Pandas, Seaborn, Paramiko), C/C++, C\#, JavaScript, MATLAB
     - title: Tools
-      contents: 
+      items: 
         - Git, JUnit, Google Cloud, VS Code/Visual Studio, Unity, Colab, LaTeX, Android Studios, MongoDB, Express, React, Node, Flask, HTML, SQLite, Postman}}
 
 - title: Academic Interests
