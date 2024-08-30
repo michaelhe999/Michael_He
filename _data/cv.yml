@@ -13,7 +13,7 @@
   contents:
     - title: Bachelor of Science in Computer Science
       institution: University of California, San Diego
-      year: Aug. 2023 – June 2026
+      year: 2023 – 2026
       description:
         - Regents Scholar
         - Provost Honors
@@ -37,7 +37,7 @@
             - Data Science in Practice
     - title: High School Diploma
       institution: Scripps Ranch High School
-      year: Aug. 2019 – June 2023
+      year: 2019 – 2023
       description:
         - Top 1% GPA (4.79)
         - title: Relevant Coursework
@@ -52,7 +52,7 @@
   contents:
     - title: Undergraduate Researcher
       institution: UCSD Ujima Security and Privacy Research Group
-      year: Aug. 2023 - Jun. 2024
+      year: 2023 - 2024
       description:
         - Research group dedicated to investigating accessibility and security issues impacting marginalized communities
         - Worked on a research paper on Kenyan finance apps to analyze changes in security and permissions after new government policy to determine the impact and make comparisons with American apps
@@ -62,7 +62,7 @@
         - Project lead for team creating a Flask web application to facilitate the creation and execution of Implicit Association psychological tests
     - title: Independent Contractor
       institution: Technology Company
-      year: Jul. 2024 - Aug. 2024
+      year: 2024
       description:
         - Worked as a contractor to develop a custom software tool in Python to optimize and streamline workflow processes for a major client
         - Collaborated closely with client to gather requirements, ensuring the tool met all functional and performance needs
@@ -70,14 +70,14 @@
 
     - title: Undergraduate Researcher
       institution: UCSD Programming Systems Group
-      year: Mar. 2024 – Jun. 2024
+      year: 2024
       description: 
         - Performed analysis of video interview about participants’ use of Jupyter notebook using MAXQDA
         - Completed CITI Program training on social and behavioral research for work with human subjects
 
     - title: Instructor
       institution: iD Tech Camps
-      year: Jun. 2024 - Aug. 2024
+      year: 2024
       description:
         - Taught a range of students from middle to high school in complex coding and technology concepts
         - Instructed students in Python and introduced AI through neural networks, Tensorflow models and OpenAI
@@ -85,7 +85,7 @@
 
     - title: CSE 12 Tutor
       institution: CSE Department @ UCSD
-      year: Mar. 2024 - Jun. 2024
+      year: 2024
       description: 
         - Held tutoring hours to assist students in course topics, resolving over 100 tickets with a >98% resolution rate
         - Assisted TAs with exam preparation, assignment testing, and assignment grading
