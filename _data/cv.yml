@@ -130,9 +130,9 @@
   type: time_table
   contents: 
     - title: CITI Social and Behavioral Research - Basic/Refresher
-    - year: 2024 - 2027
-    - contents: 
-      <a href="https://www.citiprogram.org/verify/?wd6248fd7-3835-46d7-af18-384828a63fc8-61894775">Certificate</a>
+      year: 2024 - 2027
+      description: 
+      - <a href="https://www.citiprogram.org/verify/?wd6248fd7-3835-46d7-af18-384828a63fc8-61894775">Certificate</a>
 
 - title: Skills
   type: nested_list
