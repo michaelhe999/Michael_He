@@ -11,3 +11,5 @@ related_publications: false
 Here's the contents for the EDS 124BR class: 
 
 Week 1 Video Link: https://youtu.be/a4b9ZxYqgqY
+
+Week 2 Video Link: https://youtu.be/gIF6YQXs1sg
