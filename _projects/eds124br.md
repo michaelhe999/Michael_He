@@ -19,3 +19,5 @@ Week 2 Lesson Plan Video Link: [https://youtu.be/6loZoUfvH6g](https://youtu.be/6
 Week 3 Write and Explain a Program (Nested Repeats) Video Link: [https://youtu.be/EAwlVI2PAPw](https://youtu.be/EAwlVI2PAPw)
 
 Week 3 Write and Explain a Program (Events) Video Link: [https://youtu.be/ldpF_bmBU-I](https://youtu.be/ldpF_bmBU-I)
+
+Week 4 Write and Explain a Program (Variables) Video Link: [https://youtu.be/Rp1AcJy60gs](https://youtu.be/Rp1AcJy60gs)
