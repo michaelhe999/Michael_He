@@ -21,3 +21,5 @@ Week 3 Write and Explain a Program (Nested Repeats) Video Link: [https://youtu.b
 Week 3 Write and Explain a Program (Events) Video Link: [https://youtu.be/ldpF_bmBU-I](https://youtu.be/ldpF_bmBU-I)
 
 Week 4 Write and Explain a Program (Variables) Video Link: [https://youtu.be/Rp1AcJy60gs](https://youtu.be/Rp1AcJy60gs)
+
+Week 5 Write and Explain a Program (Conditional Loops) Video Link: [https://youtu.be/vYZjsEFKgNM](https://youtu.be/vYZjsEFKgNM)
