@@ -23,3 +23,5 @@ Week 3 Write and Explain a Program (Events) Video Link: [https://youtu.be/ldpF_b
 Week 4 Write and Explain a Program (Variables) Video Link: [https://youtu.be/Rp1AcJy60gs](https://youtu.be/Rp1AcJy60gs)
 
 Week 5 Write and Explain a Program (Conditional Loops) Video Link: [https://youtu.be/vYZjsEFKgNM](https://youtu.be/vYZjsEFKgNM)
+
+Week 6 Write and Explain a Program (If Else) Video Link: [https://youtu.be/jvWmYAXDTww](https://youtu.be/jvWmYAXDTww)
