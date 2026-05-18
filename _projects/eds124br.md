@@ -25,3 +25,5 @@ Week 4 Write and Explain a Program (Variables) Video Link: [https://youtu.be/Rp1
 Week 5 Write and Explain a Program (Conditional Loops) Video Link: [https://youtu.be/vYZjsEFKgNM](https://youtu.be/vYZjsEFKgNM)
 
 Week 6 Write and Explain a Program (If Else) Video Link: [https://youtu.be/jvWmYAXDTww](https://youtu.be/jvWmYAXDTww)
+
+Week 7 Write and Explain a Program (Nested Ifs) Video Link: [https://youtu.be/O44KIGVbcok](https://youtu.be/O44KIGVbcok)
