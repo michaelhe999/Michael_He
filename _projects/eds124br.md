@@ -27,3 +27,5 @@ Week 5 Write and Explain a Program (Conditional Loops) Video Link: [https://yout
 Week 6 Write and Explain a Program (If Else) Video Link: [https://youtu.be/jvWmYAXDTww](https://youtu.be/jvWmYAXDTww)
 
 Week 7 Write and Explain a Program (Nested Ifs) Video Link: [https://youtu.be/O44KIGVbcok](https://youtu.be/O44KIGVbcok)
+
+Week 8 Write and Explain a Program (Compound Conditionals) Video Link: [https://youtu.be/rV5cqRnqFLY](https://youtu.be/rV5cqRnqFLY)
